@@ -1,0 +1,4 @@
+AIWolfPlayer
+============
+
+Sample Players
